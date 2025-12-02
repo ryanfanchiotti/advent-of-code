@@ -1,3 +1,4 @@
 ### Advent of Code Solutions
 
-- programs generally take an input file as a command line argument
+- programs generally take input from stdin
+- example: `runhaskell Part1.hs < Input1.txt`
